@@ -1,0 +1,2 @@
+config:
+    info: test.yml,warn,info,test=org.pivot.springclouds
