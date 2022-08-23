@@ -1,2 +1,2 @@
 config:
-    info: dev.yml,warn,info,test=org.pivot.springclouds,version=2
+    info: dev.yml,warn,info,test=org.pivot.springclouds,version=3
