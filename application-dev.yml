@@ -1,0 +1,2 @@
+config:
+    info: warn,info,test=org.pivot.springclouds
